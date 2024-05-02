@@ -6,7 +6,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #151515;
+    background-color: #151516;
 }
 .loader {
     --dim: 5rem;
